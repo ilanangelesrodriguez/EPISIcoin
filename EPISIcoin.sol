@@ -2,6 +2,9 @@
 Implements EIP20 token standard: https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
 .*/
 
+/*
+Utilizo smart contract con ayuda de estandares para tokens ERC20
+.*/
 
 pragma solidity ^0.4.21;
 
